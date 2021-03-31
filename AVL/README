@@ -1,0 +1,5 @@
+1.Zaprojektuj i zaimplemetuj strukturę danych dla przechowywwania wyników podczas zawodów narciarskich w oparciu o drzewo AVL.
+	Zawodnicy startują po kolei z odstępem 30 sec, po przejściu checkpointa wynik jest dodawany do struktury.Dodaj funkcje umożliwiające :
+		a.Wypisanie wszystkich wyników po kolei 
+		b.Dodanie nowego wyniku 
+		c.Wyszukiwania wyniku danego zawodnika oraz zmiany tego wyniku 
