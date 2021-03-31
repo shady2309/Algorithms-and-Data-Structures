@@ -1,0 +1,6 @@
+Masz do czynienia z problemem przechowywania danych o książkach w bibliotece w formacie {Tytuł, nazwisko autora, rok wydania, wydawnictwo, ilość stron}. 
+Zaproponuj 3 różne funkcje hashujące dla zapisu takich danych do tablicy hashującej. 
+Zaimplementuj taką tablicę na dwa sposoby: 
+	przy użyciu próbkowania liniowego (tablicę hashującą przedstawiamy jako zwykłą tablicę, kolizje rozwiązujemy poprzez umieszczanie kolidującego elementu w najbliższej wolnej komórce) 
+	za pomocą list jednostronnych (w każdej komórce tablicy trzymamy listę jednostronną na którą dopinamy elementy o odpowiedniej wartości hashy). 
+Sprawdź czas wykonania w 6 otzrymanych przypadkach i wybierz optymalny.
