@@ -85,6 +85,7 @@ int main() {
             k++;
         }
     }
+	
     cout<< "Po sortowaniu (2D): "<<endl;
     for (int i = 0; i < ROWS; i++) {
         for (int j = 0; j < COL; j++)
