@@ -1,0 +1,1 @@
+Program, który wyszuka najkrótsze ścieżki z dowolnego miasta do pozostałych miast z mapy z poprzedniego zadania. Korzysta z algorytmu Dijkstry i Bellmana-Forda.
