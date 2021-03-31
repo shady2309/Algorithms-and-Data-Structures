@@ -39,6 +39,7 @@ void quicksort(int arr[], int start, int end) {
 
 
 int main() {
+	
     //deklaracja tablicy 2D
     int** array2D = new int* [ROWS];
     for (int i = 0; i < ROWS; ++i)
